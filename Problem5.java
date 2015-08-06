@@ -10,8 +10,7 @@ import java.util.Arrays;  //import klasy, która pozwoli mi wypisać tablicę
 
 class Problem5 {
     public void timesTable() {
-        int n = 12;
-        int[][] table = int[16][16];
+        int[][] table = int[12][12];
         
         //implement here
         
